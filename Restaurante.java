@@ -1,4 +1,4 @@
-package SistemaDelivery;
+package SistemaDeliveryParte1;
 
 public class Restaurante {
      String nome;
